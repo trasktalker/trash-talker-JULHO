@@ -44,7 +44,7 @@ export default async function HomePage() {
           </p>
           <div className="flex gap-4">
             <Button size="lg" asChild>
-              <Link href="/cadastro">Testar Agora</Link>
+              <Link href="/signup">Testar Agora</Link>
             </Button>
             <Button size="lg" variant="outline">
               Ver Demo
